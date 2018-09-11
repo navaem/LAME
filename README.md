@@ -1,2 +1,2 @@
 # LAME
-Final Project Mbed LC1768 video Game
+Final Project Mbed LC1768 video game
